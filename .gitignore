@@ -1,0 +1,19 @@
+# Venv
+.venv/
+venv/
+# IDE
+.idea/
+__pycache__/
+*.pyc
+# Local data
+data/
+backups/
+*.sqlite3
+*.log
+# Reports & env
+*.xlsx
+*.pdf
+.env
+# System
+.DS_Store
+Thumbs.db
